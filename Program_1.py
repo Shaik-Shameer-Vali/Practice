@@ -4,3 +4,4 @@ Mosaic Plagiarism. ...
 Accidental Plagiarism'''
 name = name.find('plagiarism')
 print(name)
+fds
